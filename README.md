@@ -2,7 +2,7 @@
 
 # 🍺 BartoszOsiej Homebrew Tap
 
-**`brew install bartoszosiejtap/netrecon`** — wait, proper form below.
+**Two formulas. Zero stale versions. Signed binaries.**
 
 </div>
 
