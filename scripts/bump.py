@@ -77,6 +77,7 @@ for tool in TOOLS:
   end
 end
 '''
+    os.makedirs("Formula", exist_ok=True)
     path = f"Formula/{tool}.rb"
     old = open(path).read() if os.path.exists(path) else ""
     if old != content:
