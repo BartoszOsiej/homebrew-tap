@@ -1,4 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=header&text=homebrew-tap&fontSize=32&animation=fadeIn" width="100%" />
+
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&height=45&lines=Homebrew%20tap%20%E2%80%94%20brew%20install%20BartoszOsiej%2Ftap%2F%3Ctool%3E%20%7C%20signed%20Rust%20security%20%26%20recon%20tools)](https://github.com/BartoszOsiej/homebrew-tap)
+
+</div><div align="center">
 
 # 🍺 BartoszOsiej Homebrew Tap
 
