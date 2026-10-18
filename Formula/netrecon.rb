@@ -6,10 +6,10 @@ class Netrecon < Formula
 
   on_macos do
     if Hardware::CPU.arm?
-      url "https://github.com/BartoszOsiej/CyberForge/releases/download/v1.0/netrecon-aarch64-apple-darwin"
+      url "https://github.com/Hartwell-Labs/CyberForge/releases/download/v1.0/netrecon-aarch64-apple-darwin"
       sha256 "907f2d084ce5e34b94c086cad9ef74049ebd4b95145b0c54acabbf273f3f30d4"
     else
-      url "https://github.com/BartoszOsiej/CyberForge/releases/download/v1.0/netrecon-x86_64-apple-darwin"
+      url "https://github.com/Hartwell-Labs/CyberForge/releases/download/v1.0/netrecon-x86_64-apple-darwin"
       sha256 "2ca98729ee78ff5a9362671fa10949796582f02cc9373aaa37ca8ca2f27115f4"
     end
   end
